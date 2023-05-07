@@ -22,14 +22,12 @@ Exemplo de arquivo input.txt para cifragem:
 ```
 Chave
 Ataque a base de operações 3
-
 ```
 
 Exemplo de arquivo input.txt para ataque:
 
 ```
 CAALYGHBVWGKEJTGYAXSGZ
-
 ```
 
 O resultado da operação será salvo no arquivo output.txt. Caso a operação seja de cifragem ou decifragem, o arquivo conterá apenas a mensagem resultante. Já no caso de operação de ataque, o arquivo conterá as chaves encontradas para cada idioma (português e inglês).
